@@ -1,13 +1,15 @@
 
-my_env/Include/classobject.h
-*.h
-*.h
-my_env/Include/graminit.h
-my_env/Include/grammar.h
-my_env/Include/greenlet/greenlet.h
-*.xml
-*.pyc
-*.py
 *.xml
 *.h
 *.pyc
+*.mo
+*.po
+*.ps1
+*.xsh
+*.exe
+*.enc
+*.msg
+*.tcl
+*.mo
+*.po
+*.mo
